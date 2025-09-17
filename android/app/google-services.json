@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567941378542",
+    "project_id": "cng-locatore",
+    "storage_bucket": "cng-locatore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567941378542:android:56f4300a1fdba5eb3b5eff",
+        "android_client_info": {
+          "package_name": "com.example.cng_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567941378542-kjue3sdhir88k6s8nbcsn3ce3dm72hqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cng_locator",
+            "certificate_hash": "7eb57a28cf3632740d8f95c68ac551f09a25d8f5"
+          }
+        },
+        {
+          "client_id": "567941378542-pkmveqo0l3c5qvupqvdpcsm6rd0oafmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3l0zyHrcBbYcHL5d24b_y-uVXGaEdVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567941378542-pkmveqo0l3c5qvupqvdpcsm6rd0oafmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
